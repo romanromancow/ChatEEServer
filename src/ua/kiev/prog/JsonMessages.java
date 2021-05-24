@@ -12,5 +12,4 @@ public class JsonMessages {// это вспомогательный класс, 
         for (int i = fromIndex; i < sourceList.size(); i++)
             list.add(sourceList.get(i));
     }
-
 }
